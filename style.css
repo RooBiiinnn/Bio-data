@@ -1,0 +1,287 @@
+body {
+  background-color: lightblue;
+}
+
+h1 { text-align:center;
+  color: black;
+  margin-left: 20px;
+}
+
+.formation {  
+  font-size: 20px;
+   text-align:left;
+   padding-left: 30px;
+}
+
+.lineheight {
+	line-height: 1.8;
+}
+
+ul {
+	list-style:none;
+	display:table;
+}
+
+li  { display: table-row; 
+ 
+}
+
+b { display: table-cell; 
+  padding-right: 5px;
+}
+
+table, th, td {
+border: 2px solid black;
+border-collapse: collapse;
+text-align: center;
+font-size: 20px;
+margin-left: 100px;
+ }
+
+
+.tableformat {
+	align: center;
+	width:40%;
+	align: center;
+	
+}
+
+.hobbies {
+	text-indent: 50px;
+	font-size: 20px;
+	
+	font-family:  'Estonia', cursive;
+}
+
+#img {
+margin-right: 50px;
+cursor: pointer;
+}
+
+
+#img:hover {
+	 opacity: 0.8;
+	 
+}
+
+
+.headi {
+      font-size: 22px;
+	  
+ }
+.tablecap {
+	font-size: 22px;
+	font-weight: bolder;
+}
+
+h1 {
+
+background-image: url(p.png);
+background-size: 85px;
+background-repeat: no-repeat;
+background-position-x: 430px;
+}
+
+#detailbox {
+	padding: 8px 10px;
+	 margin-left: 20px;
+	 padding-right: 35px;
+	 transition: width 0.3s;
+}
+
+#detailbox:focus {
+	 width: 150%;
+}
+
+#detailbox:hover {
+	border: 2px solid black;
+}
+
+#form {
+	 padding: 8px 50px;
+	 margin: 0px;
+	 
+}
+
+#button {
+   padding: 10px 10px;
+   font-size: 15px;
+   margin-left: 20px;
+}
+#button:hover {
+	color:brown;
+	cursor: pointer;
+}
+
+#reset:hover {
+	color: brown;
+	cursor: pointer;
+	
+}
+
+.name {
+	padding: 8px 10px;
+	 margin: 8px;
+	 margin-left: 20px;
+	 width: 250px;
+	 transition: width 0.3s;
+}
+
+.name:hover {
+     width: 150%;
+
+}
+
+.name:hover {
+	border: 2px solid black;
+}
+#contactform {
+
+ display: inline;
+ float:left;
+
+}
+
+
+
+#contactform2 {
+    display: inline;
+	float:left;
+	margin-left: 500px;
+	
+	
+	
+}
+
+
+
+#contactform2 a img {
+	transition: height 0.45s;
+	transition: width 0.45s;
+	
+	
+	
+	
+}
+
+
+#contactform2 a img:hover {
+	height: 65px;
+	width: 45px;
+	
+
+}
+
+
+#mail {
+	margin-left: 10px;
+}
+
+#twiter {
+	margin-left: 10px;
+}
+
+#fb {
+	margin-left: 10px;
+}
+
+#address {
+	font-size: 20px;
+}
+
+
+
+#nav {
+	background-color:#000333;
+	
+}
+
+
+#nav ul {
+	margin: 0 auto;
+	
+	
+}
+
+
+#nav ul li {
+	padding: 10px;
+	border-radius: 5px;
+	
+ float: left;
+ margin: 20px;
+ font-size: 20px;
+ font-family: 'Playfair Display', serif;
+ 
+ 
+ 
+}
+
+#nav ul li:hover, #nav ul li:focus, #nav ul li:active {
+	background-color: #2D2F5D;
+	transition: background-color 300ms linear;
+}
+
+#nav ul li a {
+	text-decoration: none;
+	color: aliceblue;
+	font-weight: bolder;
+	transition: font-size 0.2s;
+}
+
+#nav ul li a:hover {
+
+	font-size: 25px;
+}
+
+
+#bottom {
+	background-color: black; height: 100px;
+}
+
+#li {
+    color:cornsilk;
+	font-size: 25px;
+	float: left;
+    padding: 10px;
+	
+}
+
+#lists {
+	margin: 0 auto;
+}
+
+#copy {
+      color: cornsilk;
+	  font-size: 25px;
+	  text-align: center;
+     
+}
+
+#bfb {
+	text-decoration: none;
+	color: cornsilk;
+	transition: color 0.2s;
+}
+
+#bfb:hover {
+	color: darkblue;
+	cursor: pointer;
+
+}
+
+
+
+#withme {
+	height: 20px;
+}
+
+#leave {
+	font-size: 20px;
+}
+
+#ruler {
+	color: black;
+	border: 1px solid rgb(95, 86, 86);
+	width: 100%;
+}

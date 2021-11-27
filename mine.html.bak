@@ -1,0 +1,83 @@
+<!DOCTYPE HTML>
+<head>
+   <link rel="stylesheet" href="style.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Comforter+Brush&display=swap" rel="stylesheet">
+  <title>
+      Portfolio of Tanvir
+  </title>	
+</head>  
+     <body>
+       <h1> <u>My Details Portfolio </u> </h1>
+	   <div id="img">
+	   <img src="p.png" width="50" height="20" alt="carrier" align="right"/>
+	   <img src="https://cutt.ly/ZTHkSCi" width="250" height="250" alt="Applicants Photo" align="right" />
+  </div>
+  
+<ul class="formation lineheight">
+<li class="headi"><b><u>Personal Informations</u></b>: </li>
+<li><b>Name          </b>: Tanvir Islam Robin </li>
+<li><b>Fathers Name  </b>: Jahirul Islam </li>
+<li><b>Mothers Name  </b>:</b> Mst. Mamotaz Khanam </li>
+<li><b>Date of Birth </b>:</b> 16<sup>th</sup> August </li>
+<li><b>Address       </b>:</b> Habiganj </li>
+<li><b>Nationality   </b>: Bangladeshi </li> 
+<li><b>Marital Status</b>: Unmarried </li> 
+</ul>
+
+<table class="tableformat"  >
+<caption class="tablecap"> Educatioanl Qualifications </caption>
+ <tr class="tableformat">
+    <th> Name Of Exam </th>
+	<th> Board </th>
+	<th> Result </th>
+	<th> Passing Yeas </th>
+	<th> Grade </th>
+ </tr>
+ 
+ <tr>
+    <td> JSC </td>
+	<td> Sylhet </td>
+	<td> 4.80 </td>
+	<td> 2016 </td>
+	<td> 5 </td>
+ </tr>
+ 
+ <tr>
+    <td> SSC </td>
+	<td> Sylhet </td>
+	<td> 5 </td>
+	<td> 2018 </td>
+	<td> 5 </td>
+ </tr>
+ 
+ <tr>
+    <td> HSC </td>
+	<td> Sylhet </td>
+	<td> 5 </td>
+	<td> 2020 </td>
+	<td> 5 </td>
+ </tr>
+
+</table> 
+
+<p class="hobbies"> <u>Hobbies:</u> I'm a scinece minded person. Love to think about science and math. I love biking and travel
+around the world. </p>
+
+<ul class="formation lineheight">
+<li> <u> <b> Family background</b></u>: </li>
+<li><b> Fathers Occupation</b> : &nbspArea Manager <br> &nbsp&nbsp&nbspApollo Pharmaceutical Lab. LTD. <br>&nbsp&nbsp Habiganj </li>
+<li><b> Mothers Occupation</b> : House Wife </li>
+<li><b> Sister </b> : Student </li>
+</ul>	
+
+<p class="formation"> <u><b>Skills</b></u>: I've good controls over computer. Have a knowledge on MS Office. Know basic programing language like C, C++ and have an idea over web designing
+and etc. Have a good experience of teamwork. Love to do teamwork and easily can handle a team organisely. </p>
+	
+	
+	  </body>
+</html>	   
+	   
+	   
+	   
